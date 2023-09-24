@@ -1,0 +1,15 @@
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\bin\Debug\net7.0\PeopleManagement.Infrastructure.deps.json
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\bin\Debug\net7.0\PeopleManagement.Infrastructure.dll
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\bin\Debug\net7.0\PeopleManagement.Infrastructure.pdb
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\bin\Debug\net7.0\PeopleManagement.Domain.dll
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\bin\Debug\net7.0\PeopleManagement.Domain.pdb
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\obj\Debug\net7.0\PeopleManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\obj\Debug\net7.0\PeopleManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\obj\Debug\net7.0\PeopleManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\obj\Debug\net7.0\PeopleManagement.Infrastructure.AssemblyInfo.cs
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\obj\Debug\net7.0\PeopleManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\obj\Debug\net7.0\PeopleManagement.Infrastructure.csproj.CopyComplete
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\obj\Debug\net7.0\PeopleManagement.Infrastructure.dll
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\obj\Debug\net7.0\refint\PeopleManagement.Infrastructure.dll
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\obj\Debug\net7.0\PeopleManagement.Infrastructure.pdb
+C:\Source\Assessment\PeopleManagement\PeopleManagement.Infrastructure\obj\Debug\net7.0\ref\PeopleManagement.Infrastructure.dll
